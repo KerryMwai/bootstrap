@@ -1,0 +1,19 @@
+body{
+    font-family: 'Anton', sans-serif;
+}
+.height{
+    min-height: 100vh;
+}
+.underline{
+    width: 400px;
+    height:4px;
+    background: rgb(12, 218, 22);
+    margin: auto;
+}
+
+.about-picture{
+    background:url(./images/image4.jpg)center/cover no-repeat fixed;
+    /* background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+}
